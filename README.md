@@ -11,12 +11,8 @@ This project analyzes **Google's stock (GOOG)** using Python and `yfinance`. It 
 ✅ Plots **closing prices & moving averages** with Matplotlib  
 ✅ Customizable for **any stock** by changing the ticker symbol  
 
-## 🛠️ Installation & Setup  
-### 1️⃣ Install Dependencies  
-```bash
-pip install yfinance matplotlib pandas
 
-How It Works
+📝 How It Works
 📌 What are SMA-50 & SMA-200?
     Simple Moving Averages (SMA) help smooth out stock price fluctuations by averaging prices over a specific period.
 
@@ -44,3 +40,10 @@ How It Works
 .When SMA-50 crosses BELOW SMA-200, it signals a potential downtrend (sell signal).
 
 .Suggests that short-term momentum is weaker, and the stock may decline.
+
+
+## 🛠️ Installation & Setup  
+### 1️⃣ Install Dependencies  
+```bash
+pip install yfinance matplotlib pandas
+
