@@ -1,8 +1,4 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-1.3+-yellow?logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5-green?logo=matplotlib)  
-![yFinance](https://img.shields.io/badge/yFinance-Library-orange)  
 
 # Google_stock_analysis
 # 📊 Google Stock Analysis using Python & yFinance  
