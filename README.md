@@ -14,7 +14,8 @@ This project analyzes **Google's stock (GOOG)** using Python and `yfinance`. It 
 
 📝 How It Works
 📌 What are SMA-50 & SMA-200?
-    Simple Moving Averages (SMA) help smooth out stock price fluctuations by averaging prices over a specific period.
+
+Simple Moving Averages (SMA) help smooth out stock price fluctuations by averaging prices over a specific period.
 
 ⚡SMA-50 (Short-Term Average)
 
