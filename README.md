@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-green)  
+
 # Google_stock_analysis
 # 📊 Google Stock Analysis using Python & yFinance  
 
